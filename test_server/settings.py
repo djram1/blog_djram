@@ -25,7 +25,7 @@ SECRET_KEY = '!$ax=gjg#r)msf0p6@+iputz-&%c0ubm+8rfq%i(otb*@d#ir8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['djramblog.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['djram.herokuapp.com','127.0.0.1']
 
 
 # Application definition
